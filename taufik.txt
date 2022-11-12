@@ -1,0 +1,3 @@
+resolusi:
+- menjadi data analyst
+- menajadi machine learning engineer
